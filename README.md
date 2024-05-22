@@ -18,7 +18,9 @@ The library requirements for the code are the following:
 
 ## DATASET
 
-The dataset is composed of 1430 chest x-ray images taken from Kaggle website . 80 % of the dataset is used as training set while the remaining 20 % is used as training set
+The dataset is composed of 1430 chest x-ray images taken from Kaggle website . 80 % of the dataset is used as training set while the remaining 20 % is used as training set. Differnt image preprocessing methods are applied and evaluated.
+
+
 ## HOW TO RUN
 In order to run the files , changing paths inside the code is needed. The code part consists of only one file named svm_pneumonia_detection.ipynb
 
