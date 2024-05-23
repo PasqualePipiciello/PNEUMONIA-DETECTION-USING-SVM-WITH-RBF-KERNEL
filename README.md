@@ -34,5 +34,5 @@ Similar results are achieved preforming creoss validation on the entire daatset 
 ## Authors
 
 - [@PasqualePipiciello](https://github.com/PasqualePipiciello)
-- [@GianmarcoBorrata]()
+- [@GianmarcoBorrata](https://github.com/GianmarcoBorrata)
 
