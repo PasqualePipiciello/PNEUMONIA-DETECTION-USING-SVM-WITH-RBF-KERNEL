@@ -22,7 +22,7 @@ The dataset is composed of 1430 chest x-ray images taken from Kaggle website . 8
 
 
 ## HOW TO RUN
-In order to run the files , changing paths inside the code is needed. The code part consists of only one file named svm_pneumonia_detection.ipynb
+In order to run the files , changing paths inside the code is needed. The code part consists of only one file named svm_pneumonia_detection.py
 
 ## RESULTS
 The SVM model is able to correctly classifies almost 93% of the examples in the test set. Overall performance are :
