@@ -18,19 +18,17 @@ The library requirements for the code are the following:
 
 ## DATASET
 
-The dataset is composed of 1430 chest x-ray images taken from Kaggle website . 80 % of the dataset is used as training set while the remaining 20 % is used as training set. Differnt image preprocessing methods are applied and evaluated.
+The dataset is composed of 5573 chest x-ray images taken from Kaggle website . 80 % of the dataset is used as training set while the remaining 20 % is used as training set. Differnt image preprocessing methods are applied and evaluated.
 
 
 ## HOW TO RUN
-In order to run the files , changing paths inside the code is needed. The code part consists of only one file named svm_pneumonia_detection.py
-
+In order to run the files , changing paths inside the code is needed. The code part consists of only one file named pneumonia_detection_using_nonlinear_svm.py
 ## RESULTS
-The SVM model is able to correctly classifies almost 93% of the examples in the test set. Overall performance are :
-- Accuracy : 0.93;
-- Precision : 0.91;
-- Recall :  0.8;
-- F-1 score  : 0.85.
-Similar results are achieved preforming creoss validation on the entire daatset with cv = 10.
+The SVM model is able to correctly classifies almost 94% of the examples in the test set (cv 5 cross validation). Overall performance are :
+- Accuracy : 0.94;
+- Precision : 0.95;
+- Recall :  0.96;
+- F-1 score  : 0.96.
 ## Authors
 
 - [@PasqualePipiciello](https://github.com/PasqualePipiciello)
