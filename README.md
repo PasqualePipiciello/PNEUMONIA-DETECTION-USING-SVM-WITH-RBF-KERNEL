@@ -24,7 +24,7 @@ The dataset is composed of 5573 chest x-ray images taken from Kaggle website . 8
 ## HOW TO RUN
 In order to run the files , changing paths inside the code is needed. The code part consists of only one file named pneumonia_detection_using_nonlinear_svm.py
 ## RESULTS
-The SVM model is able to correctly classifies almost 94% of the examples in the test set (cv 5 cross validation). Overall performance are :
+The SVM model is able to correctly classifies almost 94% of the examples in the test set (cv 5 cross validation). Overall performances are :
 - Accuracy : 0.94;
 - Precision : 0.95;
 - Recall :  0.96;
