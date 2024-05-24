@@ -18,7 +18,7 @@ The library requirements for the code are the following:
 
 ## DATASET
 
-The dataset is composed of 5573 chest x-ray images taken from Kaggle website . 80 % of the dataset is used as training set while the remaining 20 % is used as training set. Differnt image preprocessing methods are applied and evaluated.
+The dataset is composed of 5573 chest x-ray images taken from Kaggle website . 80 % of the dataset is used as training set while the remaining 20 % is used as test set. Different image preprocessing methods are applied and evaluated.
 
 
 ## HOW TO RUN
